@@ -1,0 +1,11 @@
+$ mkdir importmoduli
+$ cd importmoduli
+$ git init
+$ mkdir modules
+$ mkdir config
+$ mkdir data
+$ touch .gitignore
+$ git add .
+$ git commit -m "aggiungo repo moduli."
+$ git remote add origin https://github.com/beppea/importmoduli.git
+$ git push origin master
